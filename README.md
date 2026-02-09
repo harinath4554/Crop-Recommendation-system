@@ -28,9 +28,7 @@ The Crop Recommendation System is a machine learning–based application designe
 ├── Crop_recommendation.ipynb
 ├── app.py
 ├── model.pkl
-└── requirements.txt
-'''
-  <pre>
+└── requirements.txt <pre>
 
 
 
